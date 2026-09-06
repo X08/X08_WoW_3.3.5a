@@ -9,6 +9,8 @@ Automated tradeskill linking for WoW 3.3.5a clients.
 > Automatically links your crafted items in chat so others can see what you can make, without you having to do it manually.
 **In-game options:** `/craftlink on|off` · `/craftlink trigger <word>` (default: `craft`) · `/craftlink cooldown <seconds>` (default: `30`) · `/craftlink status` (shows which professions are cached) · `/craftlink clear <ProfessionName>` (remove one cached entry) · `/craftlink clearall` (wipe all cached entries)
 
+![](https://github.com/X08/X08_WoW_3.3.5a/blob/main/Images/CraftLinker_GIF.gif)
+
 ### [URLify](https://github.com/X08/URLify_3.3.5a)
 Lightweight URL enabler for WotLK 3.3.5.
 > Turns any URL posted in chat into a clickable link, and pops up a copyable box in the center of the screen so you can grab the link.
