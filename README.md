@@ -6,7 +6,7 @@ A collection of lightweight addons for World of Warcraft 3.3.5a (WotLK) private 
 
 ### [CraftLinker](https://github.com/X08/CraftLinker_3.3.5a)
 Automated tradeskill linking for WoW 3.3.5a clients.
-> Automatically links your crafted items in chat so others can see what you can make, without you having to do it manually.
+> Automatically links your crafted items in chat so others can see what you can make, without you having to do it manually. They just have to whisper you `craft`.
 **In-game options:** `/craftlink`
 
 ### [URLify](https://github.com/X08/URLify_3.3.5a)
