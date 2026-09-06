@@ -12,14 +12,14 @@ Automated tradeskill linking for WoW 3.3.5a clients.
 ![](https://github.com/X08/X08_WoW_3.3.5a/blob/main/Images/CraftLinker_GIF.gif)
 
 ### [URLify](https://github.com/X08/URLify_3.3.5a)
-Lightweight URL enabler for WotLK 3.3.5.
+Lightweight URL enabler for WotLK 3.3.5a.
 > Turns any URL posted in chat into a clickable link, and pops up a copyable box in the center of the screen so you can grab the link.
 **In-game options:** none — no slash command, works automatically. Whenever a link is posted, it converts it and shows a fixed, non-movable box in the center of the screen that you copy the link from.
 
 ![](https://github.com/X08/X08_WoW_3.3.5a/blob/main/Images/URLify_GIF.gif)
 
 ### [BulkBag](https://github.com/X08/BulkBag_3.3.5a)
-Move batches of items in WotLK 3.3.5.
+Move batches of items in WotLK 3.3.5a.
 > Lets you Ctrl+click or drag-select multiple items in your bags at once, then move them all in a single click — including into bank and guild bank slots.
 **In-game options:** `/bulkbag` — item selection itself is mouse-driven. Hold **Ctrl + Left Mouse Button** to select multiple items, or hold **LMB** and drag across items to multi-select, then click an empty bag/bank/guild-tab slot to move them all at once.
 
@@ -32,7 +32,7 @@ General Cooldown Reminder for smoother casting for WoW 3.3.5a.
 
 ![](https://github.com/X08/X08_WoW_3.3.5a/blob/main/Images/GCDDot_Gif.gif)
 
-### [FadeOut (OLED Burn-in prevention)](https://github.com/X08/FadeOut_3.3.5a)
+### [FadeOut](https://github.com/X08/FadeOut_3.3.5a)
 Default UI FadeOut Addon in and outside of combat for WoW 3.3.5a.
 > Fades default UI elements in and out depending on whether you're in or out of combat, for a cleaner screen.
 **In-game options:** `/fadeout` opens a settings window — sliders for Idle Opacity (0–100%) and Post-Combat Delay (0–20s), plus checkboxes for which UI elements fade (action bars, pet bar, stance bar, backpack button, minimap, chat frame, player/target/party frames, buffs, durability frame, quest tracker).
