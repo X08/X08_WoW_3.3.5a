@@ -29,6 +29,8 @@ Default UI FadeOut Addon in and outside of combat for WoW 3.3.5a.
 > Fades default UI elements in and out depending on whether you're in or out of combat, for a cleaner screen.
 **In-game options:** `/fadeout` opens a settings window — sliders for Idle Opacity (0–100%) and Post-Combat Delay (0–20s), plus checkboxes for which UI elements fade (action bars, pet bar, stance bar, backpack button, minimap, chat frame, player/target/party frames, buffs, durability frame, quest tracker).
 
+<img width="352" height="312" alt="image" src="https://github.com/user-attachments/assets/f583ccdd-245b-48aa-ba4f-db2f20a11226" />
+
 ---
 
 *Built for the 3.3.5a / WotLK client.- Made by X08 with help of Claude.ai*
