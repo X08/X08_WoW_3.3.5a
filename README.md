@@ -26,4 +26,4 @@ Default UI FadeOut Addon in and outside of combat for WoW 3.3.5a.
 
 ---
 
-*Built for the 3.3.5a / WotLK client.*
+*Built for the 3.3.5a / WotLK client. - Made by X08 with help of Claude.ai*
