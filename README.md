@@ -20,7 +20,7 @@ Move batches of items in WotLK 3.3.5.
 **In-game options:** `/bb` — item selection itself is mouse-driven. Hold **Ctrl + Left Mouse Button** to select multiple items, or hold **LMB** and drag across items to multi-select, then click an empty bag/bank/guild-tab slot to move them all at once.
 
 ### [GCDDot](https://github.com/X08/GCDDot_3.3.5a)
-General Cooldown Reminder for smoother casting for WoW 3.3.5a.
+Moveable General Cooldown Reminder for smoother casting for WoW 3.3.5a.
 > Shows a visual reminder of the global cooldown so you can time your next cast more smoothly.
 **In-game options:** `/gcd` or `/gcddot` (code not pushed to the repo yet, so beyond the command itself the settings aren't documented here).
 
