@@ -31,6 +31,14 @@ Moveable General Cooldown Reminder and Swing Timer for WoW 3.3.5a.
 
 ![](https://github.com/X08/X08_WoW_3.3.5a/blob/main/Images/GCDDot_Gif.gif)
 
+### [OrbMeter](https://github.com/X08/OrbMeter_3.3.5a)
+
+A small damage/healing orb with a threat ring for WoW 3.3.5a.
+
+Shows your DPS or HPS as a single orb, coloured by how you rank in your group, with an outer ring that fills as your threat climbs toward aggro. Hover it for your top abilities (current, last or total fight), right-click it to post a Top 5 Damage Done / Effective Healing to Say, Party, Raid or Guild, or to print your own breakdown. It follows what you cast: three damage or healing spells in a row switch the orb between Damage and Healing. Group damage is tracked on one shared fight window, so everyone's DPS lines up. Works with FadeOut if it is installed. In-game options: /om or /orbmeter opens the options window with /om options; subcommands options · unlock · lock · size · adaptive · hover · combat · alpha · reset · debug. Left-click switches Damage/Healing by hand, right-click opens the menu.
+
+![](https://github.com/X08/X08_WoW_3.3.5a/blob/main/Images/OrbMeter_Gif.gif)
+
 ### [FadeOut](https://github.com/X08/FadeOut_3.3.5a)
 Default UI FadeOut Addon in and outside of combat for WoW 3.3.5a.
 > Fades default UI elements in and out depending on whether you're in or out of combat, for a cleaner screen.
